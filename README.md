@@ -53,7 +53,7 @@
 
     <section>
         <h2>Contact Information</h2>
-        <p><span class="highlight">Website:</span> <a href="http://www.amitstore.com"> https://www.flipkart.com</a></p>
+        <p><span class="highlight">Website:</span> <a href="http:// https://www.flipkart.com"> https://www.flipkart.com</a></p>
         <p><span class="highlight">Email:</span> amit.uchiha.109@gmail.com</p>
         <p><span class="highlight">Phone:</span> +91 60003 83137</p>
         <p><span class="highlight">Location:</span> Amit Store HQ, Unit 1203, B.V.F.C.L COLONY, Namrup, Dibrugarh 786623, India</p>
