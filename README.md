@@ -54,9 +54,9 @@
     <section>
         <h2>Contact Information</h2>
         <p><span class="highlight">Website:</span> <a href="http://www.amitstore.com">www.amitstore.com</a></p>
-        <p><span class="highlight">Email:</span> support@amitstore.com</p>
-        <p><span class="highlight">Phone:</span> +91 98765 43210</p>
-        <p><span class="highlight">Location:</span> Amit Store HQ, Unit 1203, Cyber Park Tower, Bangalore, Karnataka 560103, India</p>
+        <p><span class="highlight">Email:</span> amit.uchiha.109@gmail.com</p>
+        <p><span class="highlight">Phone:</span> +91 60003 83137</p>
+        <p><span class="highlight">Location:</span> Amit Store HQ, Unit 1203, B.V.F.C.L COLONY, Namrup, Dibrugarh 786623, India</p>
     </section>
 
     <section>
@@ -100,8 +100,8 @@
 
     <section>
         <h2>Follow Us</h2>
-        <p>Instagram: <a href="https://instagram.com/amitstore">@amitstore</a></p>
-        <p>Facebook: <a href="https://facebook.com/amitstore">@amitstore</a></p>
+        <p>Instagram: <a href="https://instagram.com/amitstore">@_just._a_.boy_</a></p>
+        <p>Facebook: <a href="https://facebook.com/amitstore">@Amit Uchiha</a></p>
         <p>Twitter: <a href="https://twitter.com/amitstore">@amitstore</a></p>
     </section>
 
